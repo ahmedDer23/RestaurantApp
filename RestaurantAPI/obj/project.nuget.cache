@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x8B/7ZqYJkSWmGGwwWxJj8tw0aOi7vLiOnYjXZuTdyiy5JWG9eVscG/L0aNvgYVVmbw+OIif1XpehmmT53exfg==",
+  "dgSpecHash": "gZNulEkmrPORsmVw1+yqF4wJIJcVkcWcv3eZldsd3JyUZkIfrvqMCXWxw8Cokqlo3oZV0OYOdXKVkVUvoCPrkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aderouiche\\source\\repos\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj",
+  "projectFilePath": "C:\\Users\\aderouiche\\source\\repos\\RestaurantAPP\\RestaurantAPI\\RestaurantAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aderouiche\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\aderouiche\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
